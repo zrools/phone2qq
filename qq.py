@@ -12,7 +12,7 @@ from binascii import a2b_hex, b2a_hex
 def md5(cstr):
     m = hashlib.md5()
     m.update(cstr.encode())
-    return m.hexdigest().upper()
+    return m.hexdigest().lower()
 
 class QQLogin():
     
