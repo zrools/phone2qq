@@ -16,4 +16,4 @@ python3 qq.py
 - [【QQLib for Python】](https://github.com/JetLua/qqlib) TEA算法（解密函数有小改动）
 
 
-最后修改：2016.02.11
+> 注：该方法可能已经失效，2016.04.14
